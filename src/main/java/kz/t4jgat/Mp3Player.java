@@ -1,9 +1,8 @@
 package kz.t4jgat;
 
-public interface MediaPlayer {
+interface Mp3Player {
     void play();
-    void stop();
     void pause();
-
-
+    void next();
+    void prev();
 }
