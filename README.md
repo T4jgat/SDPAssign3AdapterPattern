@@ -99,3 +99,8 @@ Flexibility and maintainability: The adapter pattern makes your code more flexib
 The adapter pattern is a powerful tool that can help you to write more flexible and maintainable code. However, it is important to be aware of the potential challenges associated with using this pattern, such as increased complexity and performance overhead.
 
 When deciding whether to use the adapter pattern, it is important to weigh the benefits and challenges against the specific needs of your project. If you need to integrate two incompatible interfaces, or if you want to reuse code that is written for a different interface, then the adapter pattern is a good choice. However, if you are concerned about performance overhead or code complexity, then you may want to consider using a different approach.
+
+## link to github:
+```shell
+https://github.com/T4jgat/SDPAssign3AdapterPattern
+```
