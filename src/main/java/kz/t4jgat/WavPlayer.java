@@ -1,5 +1,6 @@
 package kz.t4jgat;
 
+// Interface for listening music in wav format
 interface WavPlayer {
     void playWav();
 

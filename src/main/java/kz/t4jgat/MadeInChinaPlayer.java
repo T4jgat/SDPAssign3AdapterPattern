@@ -2,6 +2,7 @@ package kz.t4jgat;
 
 import java.util.Scanner;
 
+// Player which can play both of the formats (mp3, wav)
 class MadeInChinaPlayer {
     Scanner sc = new Scanner(System.in);
     public void runner(WavPlayer wavPlayer) {

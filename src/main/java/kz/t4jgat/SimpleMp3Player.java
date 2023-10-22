@@ -1,5 +1,6 @@
 package kz.t4jgat;
 
+// Player which can only play music in mp3 format
 class SimpleMp3Player implements Mp3Player {
 
     @Override
